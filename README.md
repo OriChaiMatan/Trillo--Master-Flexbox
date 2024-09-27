@@ -7,7 +7,7 @@ Welcome to the Trillo Master Flexbox project! This project demonstrates a compre
 - [Installation](#installation)
 - [Contributor](#contributor)
 ## Demo
-Try it here: [Trillo Master Flexbox](https://orichaimatan.github.io/Natours/)
+Try it here: [Trillo Master Flexbox](https://orichaimatan.github.io/Trillo-Master-Flexbox/)
 ## Features
 - Flexbox Layout: Learn how to use Flexbox to create responsive layouts with minimal code. From flex containers to flexible items, the entire project relies on Flexbox for layout structure.
 - Project Overview:
